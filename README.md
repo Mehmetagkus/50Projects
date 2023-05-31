@@ -21,26 +21,19 @@
 |`10`|[Bölünmüş Sayfa Açılışı](https://github.com/Mehmetagkus/50Projects/tree/main/B%C3%B6l%C3%BCnm%C3%BC%C5%9F%20Sayfa%20A%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1)|
 |`11`|[Collapse](https://github.com/Mehmetagkus/50Projects/tree/main/Collapse)|
 |`12`|[Color Game](https://github.com/Mehmetagkus/50Projects/tree/main/Color%20Game)|
-|`13`|[isim](link)|
-|`14`|[isim](link)|
-|`15`|[isim](link)|
-|`16`|[isim](link)|
-|`17`|[isim](link)|
-|`18`|[isim](link)|
-|`19`|[isim](link)|
-|`20`|[isim](link)|
-|`21`|[isim](link)|
-|`22`|sasa|
-|`23`|sasa|
-|`24`|sasa|
-|`25`|sasa|
-|`26`|sasa|
-|`27`|sasa|
-|`28`|sasa|
-|`29`|sasa|
-|`30`|sasa|
-|`31`|sasa|
-|`32`|sasa|
-|`33`|sasa|
-|`34`|sasa|
-|`35`|sasa|
+|`13`|[Dad Joke Generator](https://github.com/Mehmetagkus/50Projects/tree/main/Dad%20Joke%20Generator)|
+|`14`|[Film Sitesi](https://github.com/Mehmetagkus/50Projects/tree/main/Film%20Sitesi)|
+|`15`|[Loading](https://github.com/Mehmetagkus/50Projects/tree/main/Loading)|
+|`16`|[Mobil Sekme Navigasyonu](https://github.com/Mehmetagkus/50Projects/tree/main/Mobil%20Sekme%20Navigasyonu)|
+|`17`|[Random Images](https://github.com/Mehmetagkus/50Projects/tree/main/Random%20Images)|
+|`18`|[Random User](https://github.com/Mehmetagkus/50Projects/tree/main/Random%20User)|
+|`19`|[Scroll Animasyonu](https://github.com/Mehmetagkus/50Projects/tree/main/Scroll%20Animasyonu)|
+|`20`|[Sound Stream Deck](https://github.com/Mehmetagkus/50Projects/tree/main/Sound%20Stream%20Deck)|
+|`21`|[Sound](https://github.com/Mehmetagkus/50Projects/tree/main/Sound)|
+|`22`|[Sticky Menü](https://github.com/Mehmetagkus/50Projects/tree/main/Sticky%20Menu)|
+|`23`|[Strong Password](https://github.com/Mehmetagkus/50Projects/tree/main/Strong%20Password)|
+|`24`|[Typelt Yapımı](https://github.com/Mehmetagkus/50Projects/tree/main/Typelt%20Yap%C4%B1m%C4%B1)|
+|`25`|[KeyCode](https://github.com/Mehmetagkus/50Projects/tree/main/keyCode)|
+|`26`|[İlerleme Barı](https://github.com/Mehmetagkus/50Projects/tree/main/%C4%B0lerleme%20Bar%C4%B1)|
+|`27`|[Şans Havuzu](https://github.com/Mehmetagkus/50Projects/tree/main/%C5%9Eans%20Havuzu)|
+
