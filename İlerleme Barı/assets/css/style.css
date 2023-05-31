@@ -1,0 +1,58 @@
+:root {
+    --primary: #E0E3E4;
+    --secondary: #FE4D6B;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 500px;
+    margin-top: 150px;
+    text-align: center;
+    position: relative;
+}
+
+.progress {
+    width: 0%;
+    height: 5px;
+    background-color: var(--secondary);
+    position: absolute;
+    left: 0;
+    top: 10px;
+    z-index: 1;
+}
+
+.circle-area {
+    display: flex;
+    justify-content: space-between;
+}
+
+.circle {
+    width: 20px;
+    height: 20px;
+    border: 3px solid var(--primary);
+    border-radius: 50%;
+    z-index: 2;
+    background-color: white;
+}
+
+.active {
+    border-color: var(--secondary);
+}
+
+.progressNext {
+    background-color: var(--secondary);
+}
+
+.btn {
+    width: 100px;
+    height: 25px;
+    background-color: var(--secondary);
+    border: none;
+    border-radius: 6px;
+    color: white;
+    margin-top: 25px;
+}
