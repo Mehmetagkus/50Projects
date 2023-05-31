@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.sounds {
+    display: flex;
+    justify-content: center;
+}
+
+.i {
+    width: .6rem;
+    height: 3rem;
+    background-color: rgb(67, 85, 255);
+    border-radius: 8px;
+    margin: 0 5px;
+    animation: equ .5s 0s infinite alternate;
+    -webkit-box-reflect: above -10px;
+}
+
+
+@keyframes equ {
+    from {
+        height: 1rem;
+    }
+
+    to {
+        height: 4rem;
+    }
+}

@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    position: relative;
+}
+
+.background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url(../bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    filter: blur(10px);
+    z-index: -1;
+}
+
+.container {
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 10px 50px 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h3 {
+    color: purple;
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+}
+
+.contact {
+    color: purple;
+    font-weight: bold;
+}
+
+input {
+    outline: none;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 8px 0;
+}
+
+button {
+    background-color: rgb(92, 1, 92);
+    color: #fff;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+button:active {
+    transform: scale(.98);
+}
