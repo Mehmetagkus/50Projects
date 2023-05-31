@@ -9,7 +9,7 @@
 
 | Sıra|Proje İsimi |
 |----|----|
-|`1`|[ProjeAdı](githublinki)|
+|`1`|[Alarm]([githublinki](https://github.com/Mehmetagkus/50Projects/tree/main/Alarm))|
 |`2`|sasa|
 |`3`|sasa|
 |`4`|sasa|
