@@ -5,7 +5,7 @@
 <h1>Mini Projeler</h1>
 </div>
 <hr>
-#### HTML, CSS, DOM (Belge Nesne Modeli) ve JavaScript ile ilgili mini projeler içerir.
+<h3>HTML, CSS, DOM (Belge Nesne Modeli) ve JavaScript ile ilgili mini projeler içerir.</h3>
 
 | Sıra|Proje İsimi |
 |----|----|
