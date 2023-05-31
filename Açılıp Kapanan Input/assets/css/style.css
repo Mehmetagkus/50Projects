@@ -1,0 +1,41 @@
+body {
+    padding: 0;
+    margin: 0;
+    position: relative;
+    background-color: #808080;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.input {
+    height: 30px;
+    width: 0;
+    border: none;
+    outline: none;
+    padding: 5px;
+    background-color: #f7a815;
+    font-size:24px;
+    transition: width 1s;
+}
+
+.input.active {
+    width: 250px;
+}
+
+.search-btn {
+    width: 40px;
+    height: 40px;
+    background-color: #f7a815;
+    text-align: center;
+}
+
+.icon {
+    margin-top: 3px;
+    margin-left: -10px;
+}
