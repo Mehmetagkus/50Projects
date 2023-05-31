@@ -10,7 +10,7 @@
 | Sıra|Proje İsimi |
 |----|----|
 |`1`|[Alarm](https://github.com/Mehmetagkus/50Projects/tree/main/Alarm)|
-|`2`|sasa|
+|`2`|[Analog Saat](https://github.com/Mehmetagkus/50Projects/tree/main/Analog%20Saat)|
 |`3`|sasa|
 |`4`|sasa|
 |`5`|sasa|
