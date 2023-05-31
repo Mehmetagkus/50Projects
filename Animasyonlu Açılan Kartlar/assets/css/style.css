@@ -1,0 +1,38 @@
+body{
+    margin:0;
+    padding:0;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    width:1000px;
+    margin:0 auto;
+}
+.card{
+    height:80vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin:20px;
+    position: relative;
+    border-radius:80px;
+    flex:1;
+}
+.text{
+    font-size:24px;
+    font-weight:800;
+    text-decoration: underline;
+    position: absolute;
+    bottom:8%;
+    left:50%;
+    transform: translate(-50%);
+    opacity:0;
+    transition: all 1s;
+}
+.card.active{
+    flex:5;
+    transition: all 1s;
+}
+.card.active > .text{
+    opacity: 1;
+}

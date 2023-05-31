@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: wheat;
+}
+
+.container {
+    position: relative;
+    transform-origin: top left;
+    transition: all 1s;
+    width: 93%;
+    float: right;
+}
+
+.menu {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: -70px;
+    left: -70px;
+    background-color: #FFD600;
+    border-radius: 50%;
+    transform: rotate(0deg);
+    transition: all 1s;
+}
+
+.menu-icon {
+    color: #000;
+    position: absolute;
+    top: 50%;
+    left: 55%;
+}
+
+.close-icon {
+    color: #000;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+}
+
+.nav {
+    position: absolute;
+    bottom: 20%;
+    left: -50%;
+    transition: all 1s;
+}
+
+.nav ul {
+    list-style: none;
+}
+
+.nav-item {
+    margin: 20px;
+    font-weight: 800;
+}

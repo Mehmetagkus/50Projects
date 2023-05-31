@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.clock {
+    width: 500px;
+    height: 500px;
+    border: 1px solid;
+    border-radius: 50%;
+    position: relative;
+    background-image: url(../img/clock.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 88%;
+    mix-blend-mode: screen;
+    box-shadow: 15px 15px 50px #000;
+}
+
+.ata {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background-image: url(../img/Ataturk.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 85%;
+    mix-blend-mode: color;
+
+}
+
+.color {
+    width: 500px;
+    height: 500px;
+    background-color: yellow;
+    border-radius: 50%;
+    mix-blend-mode: color;
+    position: absolute;
+    top: 0;
+    opacity: 20%;
+}
+
+.dot {
+    width: 20px;
+    height: 20px;
+    background-color: #000;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.secounds {
+    width: 3px;
+    height: 150px;
+    background-color: red;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-radius: 8px;
+    transform: rotate(180deg);
+    transform-origin: top;
+}
+
+.minutes {
+    width: 4px;
+    height: 120px;
+    background-color: #000;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-radius: 8px;
+    transform: rotate(180deg);
+    transform-origin: top;
+}
+
+.hours {
+    width: 6px;
+    height: 100px;
+    background-color: #000;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-radius: 8px;
+    transform: rotate(180deg);
+    transform-origin: top;
+}
+
+.text {
+    font-size: 25px;
+    padding: 3px;
+    margin-top: 30px;
+    font-family: 'Great Vibes', cursive;
+}
+
+.signature {
+    float: right;
+}
