@@ -6,6 +6,6 @@
 </div>
 <hr>
 
-![](https://github.com/Mehmetagkus/50Projects/blob/main/Alarm/introductory.mp4)
+![](https://github.com/Mehmetagkus/50Projects/blob/main/Alarm/introductory.gif)
 
 
