@@ -13,14 +13,14 @@
 |`2`|[Analog Saat](https://github.com/Mehmetagkus/50Projects/tree/main/Analog%20Saat)|
 |`3`|[Animasyonlu Açılan Kartlar](https://github.com/Mehmetagkus/50Projects/tree/main/Animasyonlu%20A%C3%A7%C4%B1lan%20Kartlar)|
 |`4`|[Animasyonlu Açılan Menü](https://github.com/Mehmetagkus/50Projects/tree/main/Animasyonlu%20A%C3%A7%C4%B1lan%20Men%C3%BC)|
-|`5`|[isim](link)|
-|`6`|[isim](link)|
-|`7`|[isim](link)|
-|`8`|[isim](link)|
-|`9`|[isim](link)|
-|`10`|[isim](link)|
-|`11`|[isim](link)|
-|`12`|[isim](link)|
+|`5`|[Animasyonlu Loading Ekranı](https://github.com/Mehmetagkus/50Projects/tree/main/Animasyonlu%20Loading)|
+|`6`|[Animasyonlu Menü](https://github.com/Mehmetagkus/50Projects/tree/main/Animasyonlu%20Men%C3%BC)|
+|`7`|[Artan Sayaç](https://github.com/Mehmetagkus/50Projects/tree/main/Artan%20Saya%C3%A7)|
+|`8`|[Açılıp Kapanan Input](https://github.com/Mehmetagkus/50Projects/tree/main/A%C3%A7%C4%B1l%C4%B1p%20Kapanan%20Input)|
+|`9`|[Bildirim Gönderme](https://github.com/Mehmetagkus/50Projects/tree/main/Bildirim%20G%C3%B6nder)|
+|`10`|[Bölünmüş Sayfa Açılışı](https://github.com/Mehmetagkus/50Projects/tree/main/B%C3%B6l%C3%BCnm%C3%BC%C5%9F%20Sayfa%20A%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1)|
+|`11`|[Collapse](https://github.com/Mehmetagkus/50Projects/tree/main/Collapse)|
+|`12`|[Color Game](https://github.com/Mehmetagkus/50Projects/tree/main/Color%20Game)|
 |`13`|[isim](link)|
 |`14`|[isim](link)|
 |`15`|[isim](link)|
