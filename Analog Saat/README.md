@@ -5,4 +5,7 @@
 <h1>Mini Projeler</h1>
 </div>
 <hr>
+
 ![](https://github.com/Mehmetagkus/50Projects/blob/main/Analog%20Saat/introductory.gif)
+
+
